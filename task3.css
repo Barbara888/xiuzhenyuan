@@ -1,9 +1,10 @@
-body{width:100%;background-color:#68cdd5;font-size: 62.5%;}
-.back{float: left;padding:5%;}
-.logo{text-align: center;padding-top:10%}
-.middle{padding:20%;}
-.middle p{color: white;font-size: 2.5em;}
-.left{float: left;padding-left: 20%;text-align: center;}
-.left p{font-size: 2.5em;color: white;}
-.right{float: right;padding-right: 20%;text-align: center;}
-.right p{font-size: 2.5em;color: white;}
+body{width:100%;background-color:#68cdd5;font-size: 62.5%;font-family:Microsoft YaHei;}
+.back{padding:5%;}
+.logo{text-align: center;}
+.logo img{width:40%;}
+.middle{padding:15% 20%;}
+.middle p{font-size: 2em;color: white;}
+.left{float: left;padding-left: 15%;text-align: center;}
+.left p{font-size: 2em;color: white;}
+.right{float: right;padding-right: 15%;text-align: center;}
+.right p{font-size: 2em;color: white;}
