@@ -1,0 +1,30 @@
+body{
+	padding:0;margin:0;font-family:Microsoft YaHei;font-size:1.6rem;
+}
+header{
+	background-color:#5fc0cd;position:fixed;top:0;width:100%;margin:0;color:white;padding:1.6rem 0;
+}
+.left{
+	float:left;margin:0;padding-left: 5%;width:20%;
+}
+.middle{
+	float:left;text-align:center;margin:0;width: 50%;
+}
+.right{
+	float:right;text-align:right;margin:0;padding-right: 5%;width:20%;
+}
+div{
+	position:relative;top:5rem;font-size:2rem;margin-top:0.4rem;background-color:white;
+}
+img{
+	padding:8px 10px;vertical-align:middle;width:20px;
+}
+input{
+	padding:0.8rem;margin:2px;border:0;text-indent: 1.6rem;outline: none;font-size: 1.6rem;font-family:Microsoft YaHei;
+}
+button{
+	position:relative;top:5rem;width:100%;background-color:#5fc0cd;padding:15px;margin-top:2rem;color:white;border:0;font-size:1.8rem;font-family:Microsoft YaHei;
+}
+.forget{
+	position:relative;top:5rem;float:right;color:#5fc0cd;
+}
